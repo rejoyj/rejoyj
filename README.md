@@ -23,9 +23,9 @@
     </td>
     <td width="70%" valign="top">
       <b>🚀 About Me</b><br>
-      I am an Electronics & Communication Engineering undergrad[cite: 10], Junior Service Engineer, and technical writer based in Chennai[cite: 10]. My work bridges low-level hardware diagnostics, Linux system administration[cite: 10], full-stack web development[cite: 10], and independent authorship.
+      I am an Electronics & Communication Engineering undergrad, Junior Service Engineer, and technical writer based in Chennai. My work bridges low-level hardware diagnostics, Linux system administration, full-stack web development, and independent authorship.
       <br><br>
-      📖 <b>Published Works:</b> Author of <i>The Things I Want You to Know</i> (Amazon KDP)[cite: 11] and IoT quantum sensor research on Zenodo[cite: 11].
+      📖 <b>Published Works:</b> Author of <i>The Things I Want You to Know</i> (Amazon KDP) and IoT quantum sensor research on Zenodo.
     </td>
   </tr>
 </table>
