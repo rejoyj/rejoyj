@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Rejoy%20J&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Embedded%20%26%20IoT%20Security%20Engineer&descAlignY=58&descSize=18" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://rejoygit.github.io/Portfolio-html">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Apps+%26+POS+Systems;Designing+Post-Quantum+IoT+Security+Protocols;Hardware+Diagnostics%2C+PCB+%26+Linux+Workflows" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Rejoy+J+%F0%9F%91%8B;Full-Stack+%26+IoT+Security+Engineer" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&height=40&lines=Building+Full-Stack+SaaS+%26+POS+Systems;Post-Quantum+IoT+Protocols+%26+Embedded+Hardware" alt="Subheader" />
 </div>
 
 <div align="center">
@@ -60,9 +55,5 @@ I engineer systems that bridge low-level hardware with modern cloud & web infras
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejoyj&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Voxel Contributions" width="100%" />
 </div>
