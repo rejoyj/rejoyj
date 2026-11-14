@@ -56,9 +56,9 @@
 
 ### 🏆 GitHub Trophies & Telemetry
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rejoyj&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=rejoyj&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
